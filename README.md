@@ -1,2 +1,2 @@
 # hello-world
-Hello world test program
+Hello world program
